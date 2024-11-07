@@ -1,4 +1,4 @@
-`__Why do we need SOLID?__`
+__Why do we need SOLID?__
 SOLID is a set of OOP principles to avoid dependencies between code components. If the code has a lot of dependencies such code is hard to maintain.
 
 The main problems solid principles resolves are:
