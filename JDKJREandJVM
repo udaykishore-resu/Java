@@ -25,6 +25,6 @@ Platform Independence: One of the primary benefits of Java is its "write once, r
 Just-In-Time Compilation (JIT): Some JVMs use JIT compilation, which translates bytecode into native machine code at runtime. This can lead to performance improvements by optimizing the execution of frequently used code paths.
 
 In summary:
->	JDK is for developers and includes everything needed to develop, compile, and run Java applications.
->	JRE is a subset of the JDK and is required to run Java applications on end-user machines.
->	JVM is the runtime environment that executes Java bytecode, making Java applications platform-independent.
+JDK is for developers and includes everything needed to develop, compile, and run Java applications.
+JRE is a subset of the JDK and is required to run Java applications on end-user machines.
+JVM is the runtime environment that executes Java bytecode, making Java applications platform-independent.
