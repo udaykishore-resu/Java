@@ -17,5 +17,5 @@ Each class should have one goal, and all its methods should work to achieve that
 
 Lets take below User class a example, the User class job is to give information about the user like name, email, subscription details.
 
-[Single responsibility](SOLID/SingleResponsibility.java)
+[Single responsibility](SOLID/Uder.java)
 
