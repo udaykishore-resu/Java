@@ -12,8 +12,10 @@ _Rigidity_: Each change causes many other changes.
 
 
 __Single Responsibility__ 
+
 Each class should have one goal, and all its methods should work to achieve that goal. If any of its method is not fit to achieve that goal, It will be moved else where.
 
 Lets take below User class a example, the User class job is to give information about the user like name, email, subscription details.
+
 [Single responsibility](SOLID/SingleResponsibility.java)
 
