@@ -4,7 +4,9 @@ SOLID is a set of OOP principles to avoid dependencies between code components. 
 The main problems solid principles resolves are:
 
 _Fragility_: Change in one part breaks the work of other parts.
+
 _Immobility_: code cannot be reused outside of its context.
+
 _Rigidity_: Each change causes many other changes.
 
 
