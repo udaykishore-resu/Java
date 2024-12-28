@@ -6,17 +6,24 @@ class A{
 }
 
 class B extends A{
-public void display(){
-    System.err.println("I am B");
-}
+    @Override
+    public void display(){
+        System.err.println("I am B");
+    }
 }
 
 class C extends A{
-    p
+    @Override
+    public void display1(){
+        System.out.println("I am C");
+    }
 }
 
-class D extends B, C {
+class D extends B {
+    @Override
+    public void display(){
 
+    }
 }
 public class MIWithOutInterface {
     
